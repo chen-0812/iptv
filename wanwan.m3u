@@ -1,0 +1,142 @@
+﻿#EXTM3U
+#EXTINF:-1 ,翡翠台
+http://23.237.10.66:16106
+#EXTINF:-1,翡翠台
+http://gg.gg/feicuitai
+#EXTINF:-1,翡翠台
+http://gg.gg/tvbfc
+#EXTINF:-1 tvg-id="416" group-title="💞宝盒" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png",J2
+https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
+#EXTINF:-1,TVB星河
+http://gg.gg/xinghe
+#EXTINF:-1 ,有线新闻台
+http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+#EXTINF:-1,星空卫视
+http://182.150.115.26:8091/custom24.m3u8
+#EXTINF:-1,天映经典
+http://gxfrg007.8800.org:8282/tsfile/live/1053_1.m3u8
+#EXTINF:-1,天映经典
+http://51.79.82.208:16024
+#EXTINF:-1 ,耀才财经新闻
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
+#EXTINF:-1 ,耀才财经新闻
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+
+#EXTINF:-1 ,凤凰中文
+http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 ,凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 ,凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+#EXTINF:-1 ,凤凰资讯
+http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 ,澳亚卫视
+https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+
+#EXTINF:-1 ,香港面包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 ,中天综合
+http://23.237.10.66:16372
+#EXTINF:-1 ,八度空间
+http://51.79.82.208:16005
+
+#EXTINF:-1 ,蕃薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+
+#EXTINF:-1 ,台视
+http://23.237.10.66:16334
+
+#EXTINF:-1 ,大爱1
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 ,大爱2
+https://pulltv1.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 ,澳门莲花
+http://anren.live/HK/BiIOU11uLA.m3u8
+#EXTINF:-1 ,澳门莲花
+http://nettvpro.live/hls/lotustv.php?zgangd
+#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="rtmps://epg.112114.xyz/logo/华视.png" group-title="台湾",华视
+rtmp://9wv7.mine.nu/sat/tv111
+#EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="rtmps://epg.112114.xyz/logo/台视.png" group-title="台湾",台视
+rtmp://9wv7.mine.nu/sat/tv071
+#EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="rtmps://epg.112114.xyz/logo/民视.png" group-title="台湾",民视
+rtmp://9wv7.mine.nu/sat/tv051
+#EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="rtmps://epg.112114.xyz/logo/中视.png" group-title="台湾",中视
+rtmp://9wv7.mine.nu/sat/tv091
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="rtmps://epg.112114.xyz/logo/緯來日本.png" group-title="台湾",緯來日本
+rtmp://9wv7.mine.nu/sat/tv771
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="rtmps://epg.112114.xyz/logo/緯來體育.png" group-title="台湾",緯來體育
+rtmp://9wv7.mine.nu/sat/tv721
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="rtmps://epg.112114.xyz/logo/緯來育樂.png" group-title="台湾",緯來育樂
+rtmp://9wv7.mine.nu/sat/tv701
+#EXTINF:-1,tvg-id="东森财经新闻台" tvg-name="东森财经新闻台" tvg-logo="rtmps://epg.112114.xyz/logo/东森财经新闻台.png" group-title="台湾",东森财经新闻
+rtmp://9wv7.mine.nu/sat/tv571
+#EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="rtmps://epg.112114.xyz/logo/TVBS新闻台.png" group-title="台湾",TVBS新闻
+rtmp://9wv7.mine.nu/sat/tv551
+#EXTINF:-1,tvg-id="TVBS欢乐台" tvg-name="TVBS欢乐台" tvg-logo="rtmps://epg.112114.xyz/logo/TVBS欢乐台.png" group-title="台湾",TVBS欢乐
+rtmp://9wv7.mine.nu/sat/tv421
+#EXTINF:-1 ,ABC news
+http://140.238.155.232:9000/jmsytb.m3u8?c=1
+#EXTINF:-1 ,ABC news
+http://140.238.155.232:9000/jmsytb.m3u8?c=2
+#EXTINF:-1 ,半岛电视台
+http://140.238.155.232:9000/jmsytb.m3u8?c=6
+#EXTINF:-1 ,CGTN
+http://140.238.155.232:9000/jmsytb.m3u8?c=7
+#EXTINF:-1 ,NHK World
+http://140.238.155.232:9000/jmsytb.m3u8?c=8
+#EXTINF:-1 ,Top News
+http://140.238.155.232:9000/jmsytb.m3u8?c=9
+#EXTINF:-1 ,Bloomberg
+http://140.238.155.232:9000/jmsytb.m3u8?c=10
+#EXTINF:-1 ,CNA
+http://140.238.155.232:9000/jmsytb.m3u8?c=11
+#EXTINF:-1 ,France 24
+http://140.238.155.232:9000/jmsytb.m3u8?c=13
+#EXTINF:-1 ,kbs Korea
+http://140.238.155.232:9000/jmsytb.m3u8?c=14
+#EXTINF:-1 ,MBC
+http://140.238.155.232:9000/jmsytb.m3u8?c=15
+#EXTINF:-1 ,NASA
+http://140.238.155.232:9000/jmsytb.m3u8?c=16
+#EXTINF:-1 ,NASA
+http://140.238.155.232:9000/jmsytb.m3u8?c=17
+#EXTINF:-1 ,NDTV
+http://140.238.155.232:9000/jmsytb.m3u8?c=19
+
+#EXTINF:-1 ,三立新闻
+http://140.238.155.232:9000/jmsytb.m3u8?c=22
+#EXTINF:-1 ,三立
+http://140.238.155.232:9000/jmsytb.m3u8?c=23
+#EXTINF:-1 ,中天新闻
+http://140.238.155.232:9000/jmsytb.m3u8?c=24
+#EXTINF:-1 ,中视新闻
+http://140.238.155.232:9000/jmsytb.m3u8?c=25
+#EXTINF:-1 ,台视新闻
+http://140.238.155.232:9000/jmsytb.m3u8?c=26
+#EXTINF:-1 ,寰宇新闻
+http://140.238.155.232:9000/jmsytb.m3u8?c=27
+#EXTINF:-1 ,TVBS HD
+http://140.238.155.232:9000/jmsytb.m3u8?c=29
+
+#EXTINF:-1 ,TVBS新闻台
+http://140.238.155.232:9000/jmsytb.m3u8?c=31
+#EXTINF:-1 ,东森财经新闻
+http://140.238.155.232:9000/jmsytb.m3u8?c=35
+#EXTINF:-1 ,东森财经新闻
+http://140.238.155.232:9000/jmsytb.m3u8?c=36
+#EXTINF:-1 ,镜新闻Mnews
+http://140.238.155.232:9000/jmsytb.m3u8?c=38
+#EXTINF:-1 ,LIVECAM
+http://140.238.155.232:9000/jmsytb.m3u8?c=41
+#EXTINF:-1 ,LIVECAM2
+http://140.238.155.232:9000/jmsytb.m3u8?c=42
+#EXTINF:-1 ,LIVECAM3
+http://140.238.155.232:9000/jmsytb.m3u8?c=43
+#EXTINF:-1 ,LIVECAM9
+http://140.238.155.232:9000/jmsytb.m3u8?c=49
+#EXTINF:-1 ,ONE WORLD RADIO
+http://140.238.155.232:9000/jmsytb.m3u8?c=51
+#EXTINF:-1 ,MUSIC REGI FLIH FALLING
+http://140.238.155.232:9000/jmsytb.m3u8?c=53
+
+
